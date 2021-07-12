@@ -1,2 +1,2 @@
 # Jenkins_test
-check jenkins2
+check jenkins
